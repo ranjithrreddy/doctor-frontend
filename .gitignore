@@ -23,3 +23,5 @@ Thumbs.db
 # Build / cache / coverage
 dist/
 coverage/
+ 
+#solved the err in correct backend url
