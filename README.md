@@ -1,16 +1,73 @@
-# React + Vite
+Frontend - MERN Appointment Booking System
+✨ Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Frontend application is the patient-facing interface of the appointment booking system. 
 
-Currently, two official plugins are available:
+It allows users to explore doctors, book appointments, and manage their personal profiles.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Key Points:
 
-## React Compiler
+Provides an intuitive and responsive interface for patients.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Facilitates user registration, login, and secure session handling.
 
-## Expanding the ESLint configuration
+Allows browsing of doctors by specialty and availability.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Supports appointment booking, viewing, and cancellation.
+
+Maintains a personalized user dashboard with appointment history.
+
+Implements real-time updates for appointment status and notifications.
+
+Designed with a modular, component-based architecture for scalability.
+
+🎯 Purpose & User Roles
+
+Primary Users:
+
+Patients / End users
+
+Responsibilities:
+
+Register and authenticate securely.
+
+Browse and filter doctors by specialty.
+
+Book and manage appointments.
+
+Track appointment status and history.
+
+Update personal profile information.
+
+🔋 Key Features
+
+Secure user authentication
+
+Doctor listing with filtering and search
+
+Appointment booking and cancellation
+
+Integrated Payment gateway
+
+Real-time status updates and notifications
+
+Personalized user dashboard
+
+Mobile-friendly, responsive design
+
+Component-driven UI for maintainability
+
+⚙️ Tech Stack
+
+React
+
+React Router
+
+Tailwind CSS
+
+Context API (state management)
+
+
+📄 License
+
+MIT License
