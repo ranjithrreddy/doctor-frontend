@@ -33,6 +33,7 @@ The **Frontend** application is the patient-facing interface of the appointment 
 * Secure user authentication
 * Doctor listing with filtering and search
 * Appointment booking and cancellation
+* Integrated Payment Gateway
 * Real-time status updates and notifications
 * Personalized user dashboard
 * Mobile-friendly, responsive design
@@ -43,8 +44,7 @@ The **Frontend** application is the patient-facing interface of the appointment 
 * React
 * React Router
 * Tailwind CSS
-* Zustand / Context API (state management)
-* Axios / Fetch for API requests
+* Context (state management)
 
 ## 📄 License
 
