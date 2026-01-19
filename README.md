@@ -1,73 +1,51 @@
-Frontend - MERN Appointment Booking System
-✨ Overview
+# Frontend - MERN Appointment Booking System
 
-The Frontend application is the patient-facing interface of the appointment booking system. 
+## ✨ Overview
 
-It allows users to explore doctors, book appointments, and manage their personal profiles.
+The **Frontend** application is the patient-facing interface of the appointment booking system. It allows users to explore doctors, book appointments, and manage their personal profiles.
 
-Key Points:
+**Key Points:**
 
-Provides an intuitive and responsive interface for patients.
+* Provides an intuitive and responsive interface for patients.
+* Facilitates user registration, login, and secure session handling.
+* Allows browsing of doctors by specialty and availability.
+* Supports appointment booking, viewing, and cancellation.
+* Maintains a personalized user dashboard with appointment history.
+* Implements real-time updates for appointment status and notifications.
+* Designed with a modular, component-based architecture for scalability.
 
-Facilitates user registration, login, and secure session handling.
+## 🎯 Purpose & User Roles
 
-Allows browsing of doctors by specialty and availability.
+**Primary Users:**
 
-Supports appointment booking, viewing, and cancellation.
+* Patients / End users
 
-Maintains a personalized user dashboard with appointment history.
+**Responsibilities:**
 
-Implements real-time updates for appointment status and notifications.
+* Register and authenticate securely.
+* Browse and filter doctors by specialty.
+* Book and manage appointments.
+* Track appointment status and history.
+* Update personal profile information.
 
-Designed with a modular, component-based architecture for scalability.
+## 🔋 Key Features
 
-🎯 Purpose & User Roles
+* Secure user authentication
+* Doctor listing with filtering and search
+* Appointment booking and cancellation
+* Real-time status updates and notifications
+* Personalized user dashboard
+* Mobile-friendly, responsive design
+* Component-driven UI for maintainability
 
-Primary Users:
+## ⚙️ Tech Stack
 
-Patients / End users
+* React
+* React Router
+* Tailwind CSS
+* Zustand / Context API (state management)
+* Axios / Fetch for API requests
 
-Responsibilities:
-
-Register and authenticate securely.
-
-Browse and filter doctors by specialty.
-
-Book and manage appointments.
-
-Track appointment status and history.
-
-Update personal profile information.
-
-🔋 Key Features
-
-Secure user authentication
-
-Doctor listing with filtering and search
-
-Appointment booking and cancellation
-
-Integrated Payment gateway
-
-Real-time status updates and notifications
-
-Personalized user dashboard
-
-Mobile-friendly, responsive design
-
-Component-driven UI for maintainability
-
-⚙️ Tech Stack
-
-React
-
-React Router
-
-Tailwind CSS
-
-Context API (state management)
-
-
-📄 License
+## 📄 License
 
 MIT License
