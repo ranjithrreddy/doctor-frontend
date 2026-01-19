@@ -38,7 +38,7 @@ The **Frontend** application is the patient-facing interface of the appointment 
 * Personalized user dashboard
 * Mobile-friendly, responsive design
 * Component-driven UI for maintainability
-
+ 
 ## ⚙️ Tech Stack
 
 * React
