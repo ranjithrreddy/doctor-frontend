@@ -1,4 +1,4 @@
-# Frontend - MERN Appointment Booking System
+# Frontend - Doctor Appointment Booking System
 
 ## ✨ Overview
 
